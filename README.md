@@ -94,8 +94,3 @@ python hard/main.py
 | `aiohttp` | Medium, Hard — async HTTP |
 | `beautifulsoup4` | Hard — HTML parsing for eBay |
 | `python-dotenv` | All bots — env config |
-
-## Contact
-
-**Telegram:** [@](https://t.me/)
-**Email:** 
